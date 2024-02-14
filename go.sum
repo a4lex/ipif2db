@@ -1,0 +1,6 @@
+github.com/a4lex/helper v0.0.5 h1:sTRtYrd8irIW/4w8ewA+Hd7TDeEzHJGe7booau1nqaQ=
+github.com/a4lex/helper v0.0.5/go.mod h1:fkc9RATYj2BC08kX3bFb8gCU0+2sCkaSFKXHiD+f4y0=
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/gosnmp/gosnmp v1.37.0 h1:/Tf8D3b9wrnNuf/SfbvO+44mPrjVphBhRtcGg22V07Y=
+github.com/gosnmp/gosnmp v1.37.0/go.mod h1:GDH9vNqpsD7f2HvZhKs5dlqSEcAS6s6Qp099oZRCR+M=
